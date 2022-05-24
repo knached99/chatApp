@@ -5,12 +5,13 @@ import "firebase/database";
 import "firebase/functions";
 import "firebase/storage";
 const firebaseConfig = {
-    apiKey: "AIzaSyBCabYRY0iAxAy5pYkoMrI-aMqlCOPm8bs",
-    authDomain: "chatapp-80fd4.firebaseapp.com",
-    projectId: "chatapp-80fd4",
-    storageBucket: "chatapp-80fd4.appspot.com",
-    messagingSenderId: "438376028178",
-    appId: "1:438376028178:web:348dacd17598d4663d60cb"
+    // API Keys not shown 
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
   // Initialize the app
   let app;
