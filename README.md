@@ -1,5 +1,3 @@
 # chatApp
-Chat application developed using the React Native framework 
-This framework compiles javascript code down natively to both iOS and Android 
-developed using react native for faster development, maintainability, and to have one codebase for faster deployment 
-This app also uses firebase for cloud storage and cloud authentication 
+Chat application developed using the React Native framework for faster development. 
+Authentication and database storage is taken care of using Firebase (Part of the Google Cloud Platform)
